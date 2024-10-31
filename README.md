@@ -1,5 +1,5 @@
 # Typescript Template 📘
-Typescript + tsx + tsuo
+Typescript + tsx + tsup
 ![](./banner.png)
 
 ```bash

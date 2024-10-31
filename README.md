@@ -1,4 +1,4 @@
-# Typescript Template 📙
+# Typescript Template 📘
 Typescript + tsx + tsuo
 ![](./banner.png)
 

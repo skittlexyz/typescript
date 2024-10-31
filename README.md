@@ -7,5 +7,5 @@ Typescript + tsx + tsup
 cd typescript
 npm i
 # Running:
-npm run dev
+npm run start
 ```
